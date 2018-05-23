@@ -122,3 +122,20 @@ body {
   padding: 20px 30px 16px;
 }
 
+
+.social-links {
+  list-style: none;
+}
+
+.github::before {
+  font-family: "FontAwesome";
+  content: "\f113";
+  margin-right: 5px;
+}
+
+.linkedin::before {
+  font-family: "FontAwesome";
+  content: "\f0e1";
+  margin-right: 5px;
+  list-style: none;
+}
