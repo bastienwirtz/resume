@@ -133,6 +133,12 @@ body {
   margin-right: 5px;
 }
 
+.twitter::before {
+  font-family: "FontAwesome";
+  content: "\f099";
+  margin-right: 5px;
+}
+
 .linkedin::before {
   font-family: "FontAwesome";
   content: "\f0e1";

@@ -2,7 +2,7 @@
 
 Resume of Bastien wirtz, based on [@acro5piano](https://github.com/acro5piano/resume)'s nice resume build with Webpack + Pug + Postcss.
 
-![screenshot](https://github.com/bastienwirtz/resume/blob/master/screenshot.en.png)
+![screenshot](https://github.com/bastienwirtz/resume/blob/master/screenshot.png)
 
 # Getting started
 
